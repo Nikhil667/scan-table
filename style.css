@@ -16,8 +16,14 @@ body{
     align-items: center;
     justify-content: center;
     gap: 2rem;
+    flex-wrap: wrap;
+    text-align: center;
 }
 
 img{
     width: 200px;
+}
+
+.container a, p{
+    font-size: 1.4rem;
 }
